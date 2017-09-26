@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/ksloan/moment-mini/issues"
   },
-  "homepage": "https://github.com/ksloan/moment-mini#readme"
+  "homepage": "https://github.com/ksloan/moment-mini#readme",
+  "typings": "./moment.d.ts"
 }
